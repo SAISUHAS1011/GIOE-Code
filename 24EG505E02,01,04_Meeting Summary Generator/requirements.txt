@@ -1,0 +1,4 @@
+groq
+python-docx
+pydub
+python-dotenv
